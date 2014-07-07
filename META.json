@@ -32,10 +32,19 @@
       },
       "runtime" : {
          "requires" : {
+            "Data::Serializer" : "0",
+            "Sereal" : "0",
             "Test::More" : "0"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "1.00"
+   "resources" : {
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/rouzier/Data-Serializer-Sereal.git",
+         "web" : "https://github.com/rouzier/Data-Serializer-Sereal"
+      }
+   },
+   "version" : "1.01"
 }

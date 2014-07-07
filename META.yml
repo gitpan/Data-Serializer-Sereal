@@ -18,5 +18,9 @@ no_index:
     - t
     - inc
 requires:
+  Data::Serializer: '0'
+  Sereal: '0'
   Test::More: '0'
-version: '1.00'
+resources:
+  repository: https://github.com/rouzier/Data-Serializer-Sereal.git
+version: '1.01'
