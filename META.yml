@@ -24,4 +24,4 @@ requires:
   Test::More: '0'
 resources:
   repository: https://github.com/rouzier/Data-Serializer-Sereal.git
-version: '1.03'
+version: '1.04'
