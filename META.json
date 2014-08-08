@@ -4,7 +4,7 @@
       "James Rouzier <rouzier@gmail.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.9, CPAN::Meta::Converter version 2.140640",
+   "generated_by" : "ExtUtils::MakeMaker version 6.9, CPAN::Meta::Converter version 2.141520",
    "license" : [
       "perl_5"
    ],
@@ -47,5 +47,5 @@
          "web" : "https://github.com/rouzier/Data-Serializer-Sereal"
       }
    },
-   "version" : "1.04"
+   "version" : "1.05"
 }
